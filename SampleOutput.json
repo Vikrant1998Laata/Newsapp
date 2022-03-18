@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "lequipe", "name": "L'equipe" },
+      "author": "L'EQUIPE",
+      "title": "Les femmes n'auront plus le droit de faire du sport en Afghanistan, affirme un dirigeant des Talibans",
+      "description": "Les Talibans n'entendent pas autoriser les femmes à jouer au cricket ou à pratiquer tout autre sport, a affirmé le chef adjoint de la commission culturelle des talibans à un média australien.",
+      "url": "https://www.lequipe.fr/Tous-sports/Actualites/Les-femmes-n-auront-plus-le-droit-de-faire-du-sport-en-afghanistan-affirme-un-dirigeant-des-talibans/1283984",
+      "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/la-delegation-afghane-aux-jo-de-tokyo-p-lahalle-l-equipe/1500000001540035/254:179,1829:1229-640-427-75/1914b.jpg",
+      "publishedAt": "2021-09-09T09:36:00+00:00",
+      "content": "Dans une interview accordée à SBS News, le chef adjoint de la commission culturelle des talibans, Ahmadullah Wasiq, a déclaré que les femmes afghanes ne seront pas autorisées à pratiquer des sports, … [+1019 chars]"
+    },
+    {
+      "source": { "id": "time", "name": "Time" },
+      "author": "Associated Press",
+      "title": "The Taliban Will Ban Women's Sports in Afghanistan, a Report Says",
+      "description": "A Taliban spokesperson has been quoted as saying that women's sports — and women's cricket specifically — will be banned in Afghanistan.",
+      "url": "http://time.com/6096243/taliban-women-sport-afghanistan/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2021/09/GettyImages-179347437.jpg?quality=85&w=1024&h=628&crop=1",
+      "publishedAt": "2021-09-09T06:59:11Z",
+      "content": "SYDNEY — Australia’s SBS TV has quoted a Taliban spokesperson as saying that women’s sports — and women’s cricket specifically — will be banned by his group in Afghanistan.\r\n“In cricket, they might f… [+2681 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
